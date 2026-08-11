@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="85" height="86.013" viewBox="0 0 85 86.013">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_430838" data-name="Rectangle 430838" width="76.219" height="76.219" transform="translate(822.732 8179.871)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Group_1245450" data-name="Group 1245450" transform="translate(-813.951 -8170.077)">
+    <g id="Rectangle_430837" data-name="Rectangle 430837" transform="translate(813.951 8170.077)" fill="#f7f700" stroke="#acac00" stroke-width="3">
+      <rect width="70" height="70" rx="10" stroke="none"/>
+      <rect x="1.5" y="1.5" width="67" height="67" rx="8.5" fill="none"/>
+    </g>
+    <g id="Mask_Group_1099523" data-name="Mask Group 1099523" clip-path="url(#clip-path)">
+      <g id="earnings_8079843" transform="translate(822.732 8179.871)">
+        <path id="Path_1334390" data-name="Path 1334390" d="M53.522,45.956c5.784,3.4,11.246,3.977,16.188,0A5.394,5.394,0,0,0,75.1,40.564V36.776a5.394,5.394,0,0,0-5.393-5.393c-7.041-4.535-14.818-4.433-23.283,0C46.147,36.191,47.384,41.493,53.522,45.956Z" fill="#ffc93c"/>
+        <path id="Path_1334391" data-name="Path 1334391" d="M52.011,60.529c6.013,2.4,11.922,2.583,17.7,0A5.394,5.394,0,0,0,75.1,55.137V51.349a5.394,5.394,0,0,0-5.393-5.393H53.522A37.127,37.127,0,0,0,52.011,60.529Z" fill="#ffe950"/>
+        <path id="Path_1334392" data-name="Path 1334392" d="M48.288,60.529c.6,1.7,1.688,2.092,3.723,0a28.162,28.162,0,0,0,1.511-14.573H50.034C47.143,50.526,47.174,55.678,48.288,60.529Z" fill="#ffc93c"/>
+        <path id="Path_1334393" data-name="Path 1334393" d="M39.232,75.1H69.709A5.394,5.394,0,0,0,75.1,69.709V65.922a5.394,5.394,0,0,0-5.393-5.393h-17.7A42.117,42.117,0,0,0,39.232,75.1Z" fill="#ffc93c"/>
+        <path id="Path_1334394" data-name="Path 1334394" d="M52.011,60.529H48.288C36.933,65.451,29.665,71.889,25.778,75.1H39.232A28.1,28.1,0,0,0,52.011,60.529Z" fill="#ffaa4e"/>
+        <path id="Path_1334395" data-name="Path 1334395" d="M50.034,45.956h3.488a28.067,28.067,0,0,0-7.1-14.573c-2.083-1.6-3.8-1.792-4.993,0C42.842,36.189,45.114,41.645,50.034,45.956Z" fill="#ffaa4e"/>
+        <path id="Path_1334396" data-name="Path 1334396" d="M75.1,25.991V22.2a5.394,5.394,0,0,0-5.393-5.393h-36.3A5.394,5.394,0,0,0,28.02,22.2v.227c5.393,2.464,11.757,5.862,18.406,8.953H69.709A5.394,5.394,0,0,0,75.1,25.991Z" fill="#ffe950"/>
+        <path id="Path_1334397" data-name="Path 1334397" d="M41.433,31.384h4.993A27.977,27.977,0,0,0,28.02,22.431v3.448C31.44,29.389,36.261,31.021,41.433,31.384Z" fill="#ffc93c"/>
+        <path id="Path_1334398" data-name="Path 1334398" d="M69.709,60.529A5.394,5.394,0,0,1,75.1,65.922V69.71A5.394,5.394,0,0,1,69.709,75.1H25.778" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2.233"/>
+        <path id="Path_1334399" data-name="Path 1334399" d="M69.709,45.956A5.394,5.394,0,0,1,75.1,51.349v3.787a5.394,5.394,0,0,1-5.393,5.393H48.288" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2.233"/>
+        <path id="Path_1334400" data-name="Path 1334400" d="M50.034,45.956H69.709A5.394,5.394,0,0,0,75.1,40.564V36.776a5.394,5.394,0,0,0-5.393-5.393" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2.233"/>
+        <line id="Line_619" data-name="Line 619" x1="17.657" transform="translate(41.433 31.384)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2.233"/>
+        <path id="Path_1334401" data-name="Path 1334401" d="M56.045,16.81H69.709A5.4,5.4,0,0,1,75.1,22.2V25.99a5.4,5.4,0,0,1-5.393,5.393H64.3" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2.233"/>
+        <path id="Path_1334402" data-name="Path 1334402" d="M50.44,50.44A24.663,24.663,0,0,0,22.275,26.027C6.049,38.67,11.131,67.181,33.686,73.806A24.667,24.667,0,0,0,50.44,50.44Z" fill="#ffe950"/>
+        <path id="Path_1334403" data-name="Path 1334403" d="M22.275,26.027a24.664,24.664,0,1,0,11.41,47.779A34.012,34.012,0,0,1,22.275,26.027Z" fill="#ffc93c"/>
+        <path id="Path_1334404" data-name="Path 1334404" d="M43.714,50.44A17.943,17.943,0,0,0,18.491,34.048c-6.767,12.546-4.536,25.92,8.18,34.306A17.937,17.937,0,0,0,43.714,50.44Z" fill="#ffc93c"/>
+        <path id="Path_1334405" data-name="Path 1334405" d="M18.491,34.048a17.938,17.938,0,0,0,8.18,34.306A33.962,33.962,0,0,1,18.491,34.048Z" fill="#ffaa4e"/>
+        <circle id="Ellipse_12503" data-name="Ellipse 12503" cx="24.662" cy="24.662" r="24.662" transform="translate(1.117 25.779)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2.233"/>
+        <path id="Path_1334406" data-name="Path 1334406" d="M14.754,64.588a17.921,17.921,0,1,0-3.6-3.754" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2.233"/>
+        <path id="Path_1334407" data-name="Path 1334407" d="M30.262,41.472H25.778a4.484,4.484,0,1,0,0,8.968,4.484,4.484,0,1,1,0,8.968H21.294" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2.233"/>
+        <line id="Line_620" data-name="Line 620" y1="3.363" transform="translate(25.778 38.109)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2.233"/>
+        <line id="Line_621" data-name="Line 621" y1="3.363" transform="translate(25.778 59.408)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2.233"/>
+        <path id="Path_1334408" data-name="Path 1334408" d="M28.02,25.879V22.2a5.394,5.394,0,0,1,5.393-5.393H47.077" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2.233"/>
+        <path id="Path_1334409" data-name="Path 1334409" d="M59.29,8.227a2.241,2.241,0,0,1-1.667,3.741H55.485V23.537a2.242,2.242,0,0,1-2.242,2.242H49.88a2.243,2.243,0,0,1-2.242-2.242V11.968H45.5a2.241,2.241,0,0,1-1.667-3.741l5.506-6.121a2.988,2.988,0,0,1,4.444,0Z" fill="#52768b"/>
+        <path id="Path_1334410" data-name="Path 1334410" d="M55.485,23.537a2.242,2.242,0,0,1-2.242,2.242H49.88a2.243,2.243,0,0,1-2.242-2.242V11.968H45.5a2.241,2.241,0,0,1-1.667-3.741l5.506-6.121a2.988,2.988,0,0,1,4.444,0L59.29,8.227a2.241,2.241,0,0,1-1.667,3.741H55.485Z" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2.233"/>
+      </g>
+    </g>
+  </g>
+</svg>
