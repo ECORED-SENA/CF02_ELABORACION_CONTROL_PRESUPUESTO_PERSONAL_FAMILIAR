@@ -275,14 +275,128 @@ export default {
   },
   glosario: [
     {
-      termino: 'Término',
-      significado: 'Definición',
+      termino: 'Acción correctiva',
+      significado:
+        'actividad que se aplica para corregir una dificultad ya identificada en el presupuesto personal.',
+    },
+    {
+      termino: 'Acción de fortalecimiento',
+      significado:
+        'actividad que permite mejorar o ampliar un resultado positivo del presupuesto, como aumentar el ahorro o reducir una deuda.',
+    },
+    {
+      termino: 'Acción de mejora',
+      significado:
+        'actividad concreta que busca corregir, prevenir o fortalecer una situación encontrada en el presupuesto personal.',
+    },
+    {
+      termino: 'Acción preventiva',
+      significado:
+        'actividad que se realiza para evitar que una dificultad financiera se presente o se repita.',
+    },
+    {
+      termino: 'Análisis financiero personal',
+      significado:
+        'revisión organizada de ingresos, gastos, deudas, ahorro, costos y metas para interpretar el manejo del dinero.',
+    },
+    {
+      termino: 'Capacidad de ahorro',
+      significado:
+        'parte del ingreso que puede reservarse después de cubrir gastos, costos, deudas y compromisos prioritarios.',
+    },
+    {
+      termino: 'Comprobación presupuestal',
+      significado:
+        'revisión que permite comparar lo planeado con lo realmente ejecutado en el presupuesto personal.',
+    },
+    {
+      termino: 'Cumplimiento de metas',
+      significado:
+        'medición del avance alcanzado frente a un objetivo financiero definido con valor, plazo y aporte periódico.',
+    },
+    {
+      termino: 'Endeudamiento personal',
+      significado:
+        'nivel de compromiso del ingreso destinado al pago de créditos, préstamos, cuotas u otras obligaciones financieras.',
+    },
+    {
+      termino: 'Excedente',
+      significado:
+        'dinero disponible que queda después de cubrir gastos, costos, deudas, ahorro y obligaciones del periodo.',
+    },
+    {
+      termino: 'Hallazgo presupuestal',
+      significado:
+        'situación identificada al revisar el presupuesto, como un gasto mayor, una deuda pendiente o una meta no cumplida.',
+    },
+    {
+      termino: 'Informe presupuestal',
+      significado:
+        'documento breve que presenta resultados, diferencias, causas, decisiones y acciones de mejora del presupuesto personal.',
+    },
+    {
+      termino: 'Liquidez personal',
+      significado:
+        'dinero disponible para cubrir compromisos inmediatos sin necesidad de recurrir a nuevas deudas.',
+    },
+    {
+      termino: 'Plan de mejora',
+      significado:
+        'organización de acciones, responsables, recursos, tiempos y formas de verificación para mejorar el presupuesto personal.',
+    },
+    {
+      termino: 'Seguimiento financiero',
+      significado:
+        'revisión periódica de compromisos, avances, dificultades y ajustes relacionados con el presupuesto personal.',
     },
   ],
   referencias: [
     {
-      referencia: '',
+      referencia: 'Asobancaria. (s. f.). Banca de las oportunidades.',
+      link: 'https://www.bancadelasoportunidades.gov.co/sites/default/files/2017-06/Capítulo%20Presupuesto.pdf',
+    },
+    {
+      referencia: 'Banco de la República. (s. f.). Talleres Banrep EDUCA.',
+      link: 'https://www.banrep.gov.co/es/servicios-temas/10596',
+    },
+    {
+      referencia:
+        'Congreso de Colombia. (2009, 15 de julio). Ley 1328 de 2009.',
+      link: 'https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=36841',
+    },
+    {
+      referencia:
+        'Congreso de Colombia. (1993, 22 de diciembre). Ley 99 de 1993.',
+      link: 'https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=297',
+    },
+    {
+      referencia:
+        'Escobar R., D. (2024). Conocimientos y habilidades para la gestión eficaz de las finanzas personales en mujeres pertenecientes a FAVISDESC en la ciudad de Florencia, Caquetá [Trabajo de grado, Universidad Nacional Abierta y a Distancia]. Repositorio Institucional UNAD.',
+      link: 'https://repository.unad.edu.co/handle/10596/67436',
+    },
+    {
+      referencia:
+        'López, G. (2026). Las finanzas personales: Un concepto que va más allá de su estructura. Pereira.',
       link: '',
+    },
+    {
+      referencia: 'Microsoft. (s. f.). Ayuda y formación de Excel.',
+      link: 'https://support.microsoft.com/es-es/excel',
+    },
+    {
+      referencia:
+        'Ministerio de Educación Nacional. (2022). Orientaciones pedagógicas para la educación económica y financiera.',
+      link: 'https://www.mineducacion.gov.co/1780/articles-340033_Orientaciones_Edu_economica_financiera_vfinal.pdf',
+    },
+    {
+      referencia:
+        'Presidencia de la República de Colombia. (2014, 5 de marzo). Decreto 457 de 2014.',
+      link: 'https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=66298',
+    },
+    {
+      referencia:
+        'Presidencia de la República de Colombia. (2015, 26 de mayo). Decreto 1072 de 2015.',
+      link: 'https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=72173',
     },
   ],
   creditos: [
@@ -291,7 +405,8 @@ export default {
       autores: [
         {
           nombre: 'Claudia Johanna Gómez Pérez',
-          cargo: 'Líder del Ecosistema',
+          cargo:
+            'Profesional 06 - Responsable ecosistema virtual de recursos educativos digitales',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
@@ -301,50 +416,96 @@ export default {
         },
       ],
     },
+
     {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: '',
-          cargo: '',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Paola Andrea Tello Zambrano',
+          cargo: 'Experta temática',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Paola Alexandra Moya',
+          cargo: 'Evaluadora instruccional',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
       ],
     },
+
     {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: '',
+          nombre: 'Juan José Calderon Gutiérrez',
           cargo: 'Diseñador de contenidos digitales',
           centro:
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
         {
-          nombre: '',
-          cargo: 'Desarrollador <i>full stack</i>',
+          nombre: 'Cristian Fernando Martínez Sánchez',
+          cargo: 'Desarrollador <i>fullstack</i>',
           centro:
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
         {
-          nombre: '',
-          cargo: '',
+          nombre: 'Alejandro Delgado Acosta',
+          cargo: 'Intérprete lenguaje de señas',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Cristhian Giovanni Gordillo Segura',
+          cargo: 'Intérprete lenguaje de señas',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Juan Pablo Rojas Polania',
+          cargo: 'Animador y productor multimedia',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'María Carolina Tamayo López',
+          cargo: 'Locución',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'German Acosta Ramos',
+          cargo: 'Locución',
           centro:
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
       ],
     },
+
     {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: '',
+          nombre: 'Ricardo Oliveros Zambrano',
           cargo: 'Validador de recursos educativos digitales',
           centro:
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
         {
-          nombre: '',
+          nombre: 'Aixa Natalia Sendoya Fernández',
+          cargo: 'Validador de recursos educativos digitales',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Daniel Ricardo Mutis Gómez',
+          cargo: 'Evaluador para contenidos inclusivos y accesibles',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Anyerson Wilfredo Pizo Ossa',
           cargo: 'Evaluador para contenidos inclusivos y accesibles',
           centro:
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
