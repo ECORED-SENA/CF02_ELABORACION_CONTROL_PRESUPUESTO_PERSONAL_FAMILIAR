@@ -22,7 +22,7 @@ export default {
       tema: 'Análisis y mejora del presupuesto personal',
       titulo: 'Cuestionario',
       introduccion:
-        '<b>Objetivo:</b> erificar la comprensión de los conceptos y procedimientos necesarios para analizar resultados, tomar decisiones y formular acciones de mejora del presupuesto personal.',
+        '<b>Objetivo:</b> verificar la comprensión de los conceptos y procedimientos necesarios para analizar resultados, tomar decisiones y formular acciones de mejora del presupuesto personal.',
       barajarPreguntas: true,
       titulo_aprobado: '¡BUEN TRABAJO!',
       titulo_reprobado: 'VUELVA A INTENTARLO',

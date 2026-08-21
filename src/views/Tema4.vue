@@ -35,7 +35,7 @@
       .caja-4(data-aos="zoom-in").mb-5
         .row.align-items-center
           .col-xl.order-2.order-lg-1.caja-1_p
-            p.mb-0 María recibe ingresos mensuales por $1.900.000. Al revisar su presupuesto encuentra que planeó gastar $300.000 en alimentación, pero finalmente gastó $430.000. También identifica que no logró ahorrar los $80.000 previstos. Después de analizar la situación, reconoce que realizó compras pequeñas durante la semana, no llevó una lista al mercado y adquirió alimentos preparados en varios días. Con esta información define una acción de mejora: organizar un menú semanal, hacer mercado con lista, establecer un límite de $80.000 semanales para alimentación y separar el ahorro apenas reciba sus ingresos. Las siguientes situaciones presentan cómo un resultado del presupuesto puede convertirse en una acción de mejora concreta y verificable.
+            p.mb-0 María recibe ingresos mensuales por $1.900.000. Al revisar su presupuesto, encuentra que planeó gastar $300.000 en alimentación, pero finalmente gastó $430.000. También identifica que no logró ahorrar los $80.000 previstos. Después de analizar la situación, reconoce que realizó compras pequeñas durante la semana, no llevó una lista al mercado y adquirió alimentos preparados en varios días. Con esta información define una acción de mejora: organizar un menú semanal, hacer mercado con lista, establecer un límite de $80.000 semanales para alimentación y separar el ahorro apenas reciba sus ingresos. Las siguientes situaciones presentan cómo un resultado del presupuesto puede convertirse en una acción de mejora concreta y verificable.
           .col-xl-auto.order-1.order-lg-2
             figure
               img(src='@/assets/curso/temas/t4/img5.png', alt='').m-auto
@@ -48,22 +48,22 @@
             .row(titulo="No se logró ahorrar el valor planeado").ajuste-cajaAcordion.ajuste-vineta
               p #[b Causa identificada:] el dinero se utilizó en gastos variables.
               p #[b Acción de mejora:] separar el ahorro al inicio del periodo.
-              p #[b Plazo:] próximo mes.
+              p #[b Plazo:] próximo mes
               p.mb-3 #[b Verificación:] comprobante, sobre físico o registro del ahorro.
             .row(titulo="El gasto en alimentación fue mayor al planeado").ajuste-cajaAcordion.ajuste-vineta
               p #[b Causa identificada:] compras sin lista y consumo fuera del hogar.
               p #[b Acción de mejora:] elaborar una lista de mercado y fijar un valor semanal.
-              p #[b Plazo:] cuatro semanas.
+              p #[b Plazo:] cuatro semanas
               p.mb-3 #[b Verificación:] comparación entre el gasto planeado y el ejecutado.
             .row(titulo="Se pagó tarde una cuota").ajuste-cajaAcordion.ajuste-vineta
               p #[b Causa identificada:] no se revisó la fecha de vencimiento.
               p #[b Acción de mejora:] crear un calendario de pagos mensuales.
-              p #[b Plazo:] inmediato.
+              p #[b Plazo:] inmediato
               p.mb-3 #[b Verificación:] revisión de fechas y comprobantes de pago.
             .row(titulo="Las deudas ocupan gran parte del ingreso").ajuste-cajaAcordion.ajuste-vineta
               p #[b Causa identificada:] se asumieron varias cuotas al mismo tiempo.
               p #[b Acción de mejora:]  evitar nuevas deudas y priorizar los pagos pendientes.
-              p #[b Plazo:] tres meses.
+              p #[b Plazo:] tres meses
               p.mb-3 #[b Verificación:] disminución del saldo o cumplimiento de las cuotas.
       .row.align-items-center.mb-5
         .col-xl
@@ -71,17 +71,17 @@
             .row(titulo="El saldo disponible fue muy bajo").ajuste-cajaAcordion.ajuste-vineta
               p #[b Causa identificada:] gastos variables altos y poco seguimiento.
               p #[b Acción de mejora:] registrar los gastos diarios y establecer límites por categoría.
-              p #[b Plazo:] un mes.
+              p #[b Plazo:] un mes
               p.mb-3 #[b Verificación:] registro semanal de gastos.
             .row(titulo="No avanzó una meta financiera").ajuste-cajaAcordion.ajuste-vineta
               p #[b Causa identificada:] el aporte mensual era poco realista.
               p #[b Acción de mejora:] ajustar el valor del aporte o ampliar el plazo.
-              p #[b Plazo:] próximo periodo.
+              p #[b Plazo:] próximo periodo
               p.mb-3 #[b Verificación:] revisión del avance acumulado de la meta.
             .row(titulo="Hubo excedente al finalizar el mes").ajuste-cajaAcordion.ajuste-vineta
               p #[b Causa identificada:] mejor control de algunos gastos.
               p #[b Acción de mejora:] destinar el excedente al ahorro, al pago de deudas o al fondo de emergencia.
-              p #[b Plazo:] final del periodo.
+              p #[b Plazo:] final del periodo
               p.mb-3 #[b Verificación:] registro del destino dado al excedente.
             .row(titulo="No se descontaron los costos de una actividad independiente").ajuste-cajaAcordion.ajuste-vineta
               p #[b Causa identificada:] se confundió el ingreso con el dinero disponible.
@@ -328,49 +328,49 @@
                       td.ajuste-border-tabla.texto-left.text-weight-bold No se cumplió la meta de ahorro.
                       td.ajuste-border-tabla.texto-left El dinero se utilizó en gastos variables.
                       td.ajuste-border-tabla.texto-left Separar $120.000 al inicio del mes en una cuenta o un sobre de ahorro.
-                      td.ajuste-border-tabla.texto-left Próximo mes.
+                      td.ajuste-border-tabla.texto-left Próximo mes
                       td.texto-left Comprobante o registro del dinero separado.
                     tr.ajuste-color-tabla
                       td.ajuste-border-tabla.texto-left.text-weight-bold Aumentaron los gastos pequeños.
                       td.ajuste-border-tabla.texto-left No se registraron las compras diarias.
                       td.ajuste-border-tabla.texto-left Llevar un registro diario y establecer un límite semanal de $40.000.
-                      td.ajuste-border-tabla.texto-left Cuatro semanas.
+                      td.ajuste-border-tabla.texto-left Cuatro semanas
                       td.texto-left Análisis semanal del registro de gastos.
                     tr
                       td.ajuste-border-tabla.texto-left.text-weight-bold Se gastó más en domicilios.
                       td.ajuste-border-tabla.texto-left Se compró comida preparada varias veces.
                       td.ajuste-border-tabla.texto-left Reducir los domicilios a un máximo de dos veces al mes.
-                      td.ajuste-border-tabla.texto-left Un mes.
+                      td.ajuste-border-tabla.texto-left Un mes
                       td.texto-left Comparación entre el gasto ejecutado y el planeado.
                     tr.ajuste-color-tabla
                       td.ajuste-border-tabla.texto-left.text-weight-bold La cuota de una deuda se pagó tarde.
                       td.ajuste-border-tabla.texto-left No se tuvo en cuenta la fecha de vencimiento.
                       td.ajuste-border-tabla.texto-left Programar un recordatorio tres días antes de la fecha de pago.
-                      td.ajuste-border-tabla.texto-left Inmediato.
+                      td.ajuste-border-tabla.texto-left Inmediato
                       td.texto-left Comprobante de pago oportuno.
                     tr
                       td.ajuste-border-tabla.texto-left.text-weight-bold La meta financiera no avanzó.
                       td.ajuste-border-tabla.texto-left El aporte mensual era alto frente al saldo disponible.
                       td.ajuste-border-tabla.texto-left Ajustar el aporte mensual y ampliar el plazo de la meta.
-                      td.ajuste-border-tabla.texto-left Próximo periodo.
+                      td.ajuste-border-tabla.texto-left Próximo periodo
                       td.texto-left Análisis del nuevo avance acumulado.
                     tr.ajuste-color-tabla
                       td.ajuste-border-tabla.texto-left.text-weight-bold El saldo disponible fue bajo.
                       td.ajuste-border-tabla.texto-left Los gastos variables quedaron muy cerca del ingreso.
                       td.ajuste-border-tabla.texto-left Reducir las compras aplazables y priorizar los gastos básicos.
-                      td.ajuste-border-tabla.texto-left Un mes.
+                      td.ajuste-border-tabla.texto-left Un mes
                       td.texto-left Comparación con el saldo final del siguiente periodo.
                     tr
                       td.ajuste-border-tabla.texto-left.text-weight-bold No se descontaron los costos de las ventas.
                       td.ajuste-border-tabla.texto-left El ingreso total se registró como dinero disponible.
                       td.ajuste-border-tabla.texto-left Separar los costos de insumos, empaques y transporte antes de calcular el saldo.
-                      td.ajuste-border-tabla.texto-left Próxima venta.
+                      td.ajuste-border-tabla.texto-left Próxima venta
                       td.texto-left Registro diferenciado del ingreso, los costos y el dinero disponible.
                     tr.ajuste-color-tabla
                       td.ajuste-border-tabla.texto-left.text-weight-bold Hubo un excedente al finalizar el mes.
                       td.ajuste-border-tabla.texto-left Se controlaron algunos gastos.
                       td.ajuste-border-tabla.texto-left Destinar el excedente al ahorro, al pago de una deuda o al fondo de emergencia.
-                      td.ajuste-border-tabla.texto-left Final del periodo.
+                      td.ajuste-border-tabla.texto-left Final del periodo
                       td.texto-left Registro del destino asignado al excedente.
           p.mb-5 Para formular una acción de mejora de manera organizada, se recomienda seguir la siguiente ruta:
           .bg-carrusel

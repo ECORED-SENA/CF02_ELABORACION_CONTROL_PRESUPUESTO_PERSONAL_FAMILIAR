@@ -446,7 +446,7 @@ export default {
         },
         {
           nombre: 'Cristian Fernando Martínez Sánchez',
-          cargo: 'Desarrollador <i>fullstack</i>',
+          cargo: 'Desarrollador <i>full stack</i>',
           centro:
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
