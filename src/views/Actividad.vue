@@ -66,7 +66,7 @@ export default {
         {
           id: 2,
           texto:
-            'Una familia planeó ahorrar $150.000, pero al cierre del periodo solo separó $60.000. ¿Qué interpretación es más adecuada?',
+            'Una familia planeó ahorrar $ 150.000, pero al cierre del periodo solo separó $ 60.000. ¿Qué interpretación es más adecuada?',
           imagen: '@/assets/actividad/imagen1.png',
           barajarRespuestas: true,
           opciones: [
@@ -102,7 +102,7 @@ export default {
         {
           id: 3,
           texto:
-            'Si una persona paga $700.000 en deudas y recibe ingresos mensuales por $2.000.000, ¿qué indicador puede analizar con esta información?',
+            'Si una persona paga $ 700.000 en deudas y recibe ingresos mensuales por $ 2.000.000, ¿qué indicador puede analizar con esta información?',
           imagen: '@/assets/actividad/imagen1.png',
           barajarRespuestas: true,
           opciones: [
@@ -134,7 +134,7 @@ export default {
         {
           id: 4,
           texto:
-            'Un presupuesto muestra ingresos por $2.300.000 y salidas por $2.250.000. Aunque el saldo es positivo, la persona no tiene fondo de emergencia ni ahorro. ¿Qué decisión sería más prudente?',
+            'Un presupuesto muestra ingresos por $ 2.300.000 y salidas por $ 2.250.000. Aunque el saldo es positivo, la persona no tiene fondo de emergencia ni ahorro. ¿Qué decisión sería más prudente?',
           imagen: '@/assets/actividad/imagen1.png',
           barajarRespuestas: true,
           opciones: [
@@ -255,7 +255,7 @@ export default {
             {
               id: 'c',
               texto:
-                'Separar $100.000 para ahorro el día que se reciba el ingreso y verificarlo con comprobante.',
+                'Separar $ 100.000 para ahorro el día que se reciba el ingreso y verificarlo con comprobante.',
               esCorrecta: true,
             },
             {
@@ -271,7 +271,7 @@ export default {
         {
           id: 8,
           texto:
-            'Una persona planeó gastar $300.000 en alimentación, pero gastó $420.000. Al revisar, encuentra compras sin lista y domicilios frecuentes. ¿Qué ajuste sería más coherente?',
+            'Una persona planeó gastar $ 300.000 en alimentación, pero gastó $ 420.000. Al revisar, encuentra compras sin lista y domicilios frecuentes. ¿Qué ajuste sería más coherente?',
           imagen: '@/assets/actividad/imagen2.png',
           barajarRespuestas: true,
           opciones: [
@@ -476,7 +476,7 @@ export default {
         {
           id: 14,
           texto:
-            'Una persona terminó de pagar una deuda mensual de $180.000. ¿Qué ajuste sería más recomendable para el siguiente presupuesto?',
+            'Una persona terminó de pagar una deuda mensual de $ 180.000. ¿Qué ajuste sería más recomendable para el siguiente presupuesto?',
           imagen: '@/assets/actividad/imagen3.png',
           barajarRespuestas: true,
           opciones: [
@@ -594,7 +594,7 @@ export default {
             {
               id: 'c',
               texto:
-                'El gasto en transporte superó lo planeado en $70.000 por desplazamientos no organizados.',
+                'El gasto en transporte superó lo planeado en $ 70.000 por desplazamientos no organizados.',
               esCorrecta: true,
             },
             {

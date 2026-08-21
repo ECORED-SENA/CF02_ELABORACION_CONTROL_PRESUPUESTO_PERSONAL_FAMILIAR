@@ -25,7 +25,7 @@
                   img(src='@/assets/curso/temas/t4/img2.jpg', alt='').m-auto
               .col-xl.caja-1_p
                 p.mb-0 Por ejemplo, si una persona identifica que sus gastos de alimentación fueron superiores a lo planeado, una acción de mejora no sería únicamente "controlar la alimentación". Una formulación más precisa consistiría en elaborar una lista de mercado semanal, comparar precios antes de comprar y establecer un valor máximo para este gasto. Así, la acción responde directamente al problema identificado y facilita verificar sus resultados en el siguiente periodo.
-          p.mb-0 Las acciones de mejora también pueden surgir cuando los resultados son favorables. Si una familia termina el mes con un excedente de $150.000, puede decidir destinar una parte al fondo de emergencia, otra al pago de una deuda y otra al ahorro para una meta específica. En este caso, la acción fortalece una buena decisión financiera y evita que el excedente se utilice sin planificación.
+          p.mb-0 Las acciones de mejora también pueden surgir cuando los resultados son favorables. Si una familia termina el mes con un excedente de $ 150.000, puede decidir destinar una parte al fondo de emergencia, otra al pago de una deuda y otra al ahorro para una meta específica. En este caso, la acción fortalece una buena decisión financiera y evita que el excedente se utilice sin planificación.
         .col-xl-auto.col-md-9(data-aos="fade-left")
           figure
             img(src='@/assets/curso/temas/t4/img3.png', alt='').m-auto
@@ -35,7 +35,7 @@
       .caja-4(data-aos="zoom-in").mb-5
         .row.align-items-center
           .col-xl.order-2.order-lg-1.caja-1_p
-            p.mb-0 María recibe ingresos mensuales por $1.900.000. Al revisar su presupuesto, encuentra que planeó gastar $300.000 en alimentación, pero finalmente gastó $430.000. También identifica que no logró ahorrar los $80.000 previstos. Después de analizar la situación, reconoce que realizó compras pequeñas durante la semana, no llevó una lista al mercado y adquirió alimentos preparados en varios días. Con esta información define una acción de mejora: organizar un menú semanal, hacer mercado con lista, establecer un límite de $80.000 semanales para alimentación y separar el ahorro apenas reciba sus ingresos. Las siguientes situaciones presentan cómo un resultado del presupuesto puede convertirse en una acción de mejora concreta y verificable.
+            p.mb-0 María recibe ingresos mensuales por $ 1.900.000. Al revisar su presupuesto, encuentra que planeó gastar $ 300.000 en alimentación, pero finalmente gastó $ 430.000. También identifica que no logró ahorrar los $ 80.000 previstos. Después de analizar la situación, reconoce que realizó compras pequeñas durante la semana, no llevó una lista al mercado y adquirió alimentos preparados en varios días. Con esta información define una acción de mejora: organizar un menú semanal, hacer mercado con lista, establecer un límite de $ 80.000 semanales para alimentación y separar el ahorro apenas reciba sus ingresos. Las siguientes situaciones presentan cómo un resultado del presupuesto puede convertirse en una acción de mejora concreta y verificable.
           .col-xl-auto.order-1.order-lg-2
             figure
               img(src='@/assets/curso/temas/t4/img5.png', alt='').m-auto
@@ -116,7 +116,7 @@
             figure
               img(src='@/assets/curso/temas/t4/img9.png', alt='').m-auto
           .col-xl.caja-1_p
-            p.mb-0 La familia Rodríguez recibe ingresos mensuales por $2.400.000. Al revisar su presupuesto encuentra que los gastos planeados eran de $2.100.000, pero los gastos ejecutados ascendieron a $2.380.000. La diferencia se originó por compras no planificadas, aumento en los servicios públicos y uso frecuente de domicilios. Además, no lograron ahorrar los $100.000 previstos. Como acciones de mejora deciden reducir los domicilios a dos veces al mes, revisar el consumo de energía, hacer mercado con lista y separar el ahorro al inicio de cada periodo. Las siguientes situaciones presentan cómo las acciones de mejora contribuyen a fortalecer el presupuesto personal.
+            p.mb-0 La familia Rodríguez recibe ingresos mensuales por $ 2.400.000. Al revisar su presupuesto encuentra que los gastos planeados eran de $ 2.100.000, pero los gastos ejecutados ascendieron a $ 2.380.000. La diferencia se originó por compras no planificadas, aumento en los servicios públicos y uso frecuente de domicilios. Además, no lograron ahorrar los $ 100.000 previstos. Como acciones de mejora deciden reducir los domicilios a dos veces al mes, revisar el consumo de energía, hacer mercado con lista y separar el ahorro al inicio de cada periodo. Las siguientes situaciones presentan cómo las acciones de mejora contribuyen a fortalecer el presupuesto personal.
       .row.align-items-center.mb-5
         .col-xl-4(data-aos="fade-right")
           figure.d-none.d-xl-block
@@ -226,7 +226,7 @@
             figure
               img(src='@/assets/curso/temas/t4/img22.png', alt='').m-auto
           .col-xl.caja-1_p
-            p.mb-0 Andrés analiza su presupuesto mensual e identifica tres situaciones. Primero, gastó $90.000 más de lo planeado en transporte porque no organizó sus recorridos; para corregir esta situación, decide planificar sus rutas semanalmente. Segundo, reconoce que no cuenta con dinero reservado para imprevistos; como medida preventiva, decide separar $50.000 mensuales para un fondo de emergencia. Tercero, obtiene un excedente de $120.000 al finalizar el mes; para fortalecer su presupuesto, destina $70.000 al ahorro y $50.000 al pago de una deuda. Los tipos de acciones de mejora que pueden aplicarse según los resultados del presupuesto personal son los siguientes:
+            p.mb-0 Andrés analiza su presupuesto mensual e identifica tres situaciones. Primero, gastó $ 90.000 más de lo planeado en transporte porque no organizó sus recorridos; para corregir esta situación, decide planificar sus rutas semanalmente. Segundo, reconoce que no cuenta con dinero reservado para imprevistos; como medida preventiva, decide separar $ 50.000 mensuales para un fondo de emergencia. Tercero, obtiene un excedente de $ 120.000 al finalizar el mes; para fortalecer su presupuesto, destina $ 70.000 al ahorro y $ 50.000 al pago de una deuda. Los tipos de acciones de mejora que pueden aplicarse según los resultados del presupuesto personal son los siguientes:
       .bg-slider.mb-5
         .px-5
           .ajuste-slider(data-aos="zoom-in")
@@ -295,7 +295,7 @@
         .col-xl.fit___bottom
           figure.mb-2.d-none.d-xl-block(data-aos="fade-left")
             img(src='@/assets/curso/temas/t1/img3.svg', alt='' style="width: 70px")
-          p.mb-0 Una acción de mejora debe ser clara, específica y posible de realizar. Por esta razón, no es suficiente emplear expresiones generales como «mejorar el ahorro», «reducir gastos» o «pagar deudas». Es necesario precisar la actividad. Algunos ejemplos son: «separar $80.000 al inicio de cada mes para el fondo de emergencia», «reducir los domicilios a dos veces al mes» o «pagar la cuota del crédito antes del día 10 de cada mes».
+          p.mb-0 Una acción de mejora debe ser clara, específica y posible de realizar. Por esta razón, no es suficiente emplear expresiones generales como «mejorar el ahorro», «reducir gastos» o «pagar deudas». Es necesario precisar la actividad. Algunos ejemplos son: «separar $ 80.000 al inicio de cada mes para el fondo de emergencia», «reducir los domicilios a dos veces al mes» o «pagar la cuota del crédito antes del día 10 de cada mes».
       .titulo-tercer-nivel.mb-5(data-aos="fade-right")
         img.titulo-tercer-nivel__icon(src='@/assets/curso/temas/t4/img4.svg')
         h3.titulo-tercer-nivel__text.mb-0.px-0.py-2 Ejemplo práctico
@@ -305,7 +305,7 @@
             figure
               img(src='@/assets/curso/temas/t4/img29.png', alt='').m-auto
           .col-xl.caja-1_p
-            p Carolina analiza su presupuesto y encuentra que durante el mes recibió $2.100.000, mientras que sus gastos y deudas sumaron $2.050.000. Aunque finalizó con un saldo positivo de $50.000, no alcanzó la meta de ahorro de $120.000. Al analizar las causas, identifica que destinó $180.000 a domicilios y compras pequeñas que no había registrado.
+            p Carolina analiza su presupuesto y encuentra que durante el mes recibió $ 2.100.000, mientras que sus gastos y deudas sumaron $ 2.050.000. Aunque finalizó con un saldo positivo de $ 50.000, no alcanzó la meta de ahorro de $ 120.000. Al analizar las causas, identifica que destinó $ 180.000 a domicilios y compras pequeñas que no había registrado.
             p.mb-0 Con esta información, Carolina formula tres acciones de mejora: separar el ahorro al inicio del mes, establecer un valor máximo semanal para los gastos pequeños y reducir los domicilios a dos veces al mes. Estas acciones responden directamente a las causas identificadas y cuentan con criterios que permiten comprobar su cumplimiento. Los siguientes ejemplos permiten relacionar los resultados del presupuesto con acciones de mejora específicas:
       .bg-1
         .px-5
@@ -327,13 +327,13 @@
                     tr
                       td.ajuste-border-tabla.texto-left.text-weight-bold No se cumplió la meta de ahorro.
                       td.ajuste-border-tabla.texto-left El dinero se utilizó en gastos variables.
-                      td.ajuste-border-tabla.texto-left Separar $120.000 al inicio del mes en una cuenta o un sobre de ahorro.
+                      td.ajuste-border-tabla.texto-left Separar $ 120.000 al inicio del mes en una cuenta o un sobre de ahorro.
                       td.ajuste-border-tabla.texto-left Próximo mes
                       td.texto-left Comprobante o registro del dinero separado.
                     tr.ajuste-color-tabla
                       td.ajuste-border-tabla.texto-left.text-weight-bold Aumentaron los gastos pequeños.
                       td.ajuste-border-tabla.texto-left No se registraron las compras diarias.
-                      td.ajuste-border-tabla.texto-left Llevar un registro diario y establecer un límite semanal de $40.000.
+                      td.ajuste-border-tabla.texto-left Llevar un registro diario y establecer un límite semanal de $ 40.000.
                       td.ajuste-border-tabla.texto-left Cuatro semanas
                       td.texto-left Análisis semanal del registro de gastos.
                     tr
@@ -432,7 +432,7 @@
             figure
               img(src='@/assets/curso/temas/t4/img37.png', alt='').m-auto
           .col-xl.caja-1_p
-            p.mb-0 La familia Gómez revisó su presupuesto mensual y encontró tres dificultades: no logró ahorrar los $100.000 previstos, pagó tarde una cuota de crédito y gastó $150.000 más de lo planeado en alimentación. Al analizar las causas, identificó que no separó el ahorro al recibir el ingreso, no tenía un calendario de pagos y realizó compras sin lista. Para mejorar la situación, elaboró un plan con actividades concretas, responsables, tiempos de cumplimiento y mecanismos de verificación. El siguiente ejemplo presenta un plan de mejora para organizar las actividades, los responsables, los recursos, los tiempos y la forma de verificar cada acción.
+            p.mb-0 La familia Gómez revisó su presupuesto mensual y encontró tres dificultades: no logró ahorrar los $ 100.000 previstos, pagó tarde una cuota de crédito y gastó $ 150.000 más de lo planeado en alimentación. Al analizar las causas, identificó que no separó el ahorro al recibir el ingreso, no tenía un calendario de pagos y realizó compras sin lista. Para mejorar la situación, elaboró un plan con actividades concretas, responsables, tiempos de cumplimiento y mecanismos de verificación. El siguiente ejemplo presenta un plan de mejora para organizar las actividades, los responsables, los recursos, los tiempos y la forma de verificar cada acción.
       .bg-1
         .px-5
           .titulo-sexto.color-acento-contenido.mb-2(data-aos="fade-right")
@@ -451,7 +451,7 @@
               tbody
                 tr
                   td.ajuste-border-tabla.texto-left.text-weight-bold No se logró ahorrar el valor planeado.
-                  td.ajuste-border-tabla.texto-left Separar $100.000 al inicio del mes.
+                  td.ajuste-border-tabla.texto-left Separar $ 100.000 al inicio del mes.
                   td.ajuste-border-tabla.texto-left Persona responsable del presupuesto familiar.
                   td.ajuste-border-tabla.texto-left Cuenta de ahorro, sobre físico o registro digital.
                   td.ajuste-border-tabla.texto-left Primer día de ingreso.
@@ -529,7 +529,7 @@
       .caja-4.mb-5(data-aos="zoom-in")
         .row.align-items-center
           .col-xl.order-2.order-lg-1.caja-1_p
-            p.mb-0 La familia Gómez formuló un plan de mejora para ahorrar $100.000 mensuales, pagar las cuotas antes de la fecha límite y reducir el gasto en alimentación. Durante la revisión de la segunda semana, identifica que ya separó el ahorro y pagó una cuota oportunamente, pero el gasto en mercado continúa por encima de lo previsto debido a compras sin lista. Como ajuste, acuerdan planificar un menú semanal, comparar precios y conservar las facturas para revisar el gasto al finalizar el mes. Las siguientes acciones permiten realizar seguimiento a los compromisos definidos dentro del plan de mejora del presupuesto personal.
+            p.mb-0 La familia Gómez formuló un plan de mejora para ahorrar $ 100.000 mensuales, pagar las cuotas antes de la fecha límite y reducir el gasto en alimentación. Durante la revisión de la segunda semana, identifica que ya separó el ahorro y pagó una cuota oportunamente, pero el gasto en mercado continúa por encima de lo previsto debido a compras sin lista. Como ajuste, acuerdan planificar un menú semanal, comparar precios y conservar las facturas para revisar el gasto al finalizar el mes. Las siguientes acciones permiten realizar seguimiento a los compromisos definidos dentro del plan de mejora del presupuesto personal.
           .col-xl-auto.order-1.order-lg-2
             figure
               img(src='@/assets/curso/temas/t4/img40.png', alt='').m-auto
@@ -539,7 +539,7 @@
             SlyderA(tipo="b")
               .row.justify-content-center.align-items-center
                 .col-xl-6.mb-4
-                  h4 Separar $100.000 para ahorro mensual
+                  h4 Separar $ 100.000 para ahorro mensual
                   p #[b Fecha de revisión:] primera semana del mes.
                   p #[b Avance:] el dinero fue separado al recibir el ingreso.
                   p #[b Dificultad:] ninguna.
@@ -647,7 +647,7 @@
             figure
               img(src='@/assets/curso/temas/t4/img50.png', alt='').m-auto
           .col-xl.caja-1_p
-            p.mb-0 Laura formuló tres acciones de mejora: ahorrar $80.000 mensuales, reducir el gasto en transporte de $180.000 a $150.000 y pagar puntualmente una cuota de $200.000. Al finalizar el mes, revisa sus indicadores y encuentra que logró ahorrar los $80.000, gastó $160.000 en transporte y pagó la cuota antes de la fecha límite. Con estos resultados decide mantener el ahorro, mejorar la planificación de sus desplazamientos y conservar el recordatorio de pago.
+            p.mb-0 Laura formuló tres acciones de mejora: ahorrar $ 80.000 mensuales, reducir el gasto en transporte de $ 180.000 a $ 150.000 y pagar puntualmente una cuota de $ 200.000. Al finalizar el mes, revisa sus indicadores y encuentra que logró ahorrar los $ 80.000, gastó $ 160.000 en transporte y pagó la cuota antes de la fecha límite. Con estos resultados decide mantener el ahorro, mejorar la planificación de sus desplazamientos y conservar el recordatorio de pago.
       .bg-1
         .px-5
           .row.justify-content-center.mb-5
@@ -729,7 +729,7 @@
                   figure
                     img(src='@/assets/curso/temas/t1/img5.svg', alt='').m-auto
                 .col-xl
-                  p.mb-0 En la práctica, ajustar el plan significa analizar qué acciones se cumplieron, cuáles quedaron pendientes, qué dificultades surgieron y qué decisiones deben modificarse para el siguiente periodo. Por ejemplo, si una persona planeó ahorrar $150.000 mensuales, pero durante dos meses solo logró ahorrar $70.000, puede reducir temporalmente el aporte, ampliar el plazo o disminuir algunos gastos variables. Si, por el contrario, supera la meta prevista, puede fortalecer el fondo de emergencia o avanzar en otra meta financiera.
+                  p.mb-0 En la práctica, ajustar el plan significa analizar qué acciones se cumplieron, cuáles quedaron pendientes, qué dificultades surgieron y qué decisiones deben modificarse para el siguiente periodo. Por ejemplo, si una persona planeó ahorrar $ 150.000 mensuales, pero durante dos meses solo logró ahorrar $ 70.000, puede reducir temporalmente el aporte, ampliar el plazo o disminuir algunos gastos variables. Si, por el contrario, supera la meta prevista, puede fortalecer el fondo de emergencia o avanzar en otra meta financiera.
               p.mb-0 Los ajustes también permiten mantener el plan alineado con la realidad. Una familia puede iniciar el mes con un presupuesto estable, pero si aumentan los servicios públicos, disminuye un ingreso variable o aparece un gasto de salud, será necesario reorganizar las prioridades y actualizar el plan.
       .titulo-tercer-nivel.mb-5(data-aos="fade-right")
         img.titulo-tercer-nivel__icon(src='@/assets/curso/temas/t4/img4.svg')
@@ -737,7 +737,7 @@
       .caja-4.mb-5(data-aos="zoom-in")
         .row.align-items-center
           .col-xl.order-2.order-lg-1.caja-1_p
-            p.mb-0 Sandra elaboró un plan de mejora para reducir los gastos pequeños, ahorrar $100.000 mensuales y pagar puntualmente una cuota de crédito. Al finalizar el primer mes cumplió con el pago de la cuota y logró disminuir algunos gastos, pero solo pudo ahorrar $60.000 debido a un gasto de salud no previsto. En lugar de abandonar la meta, decidió ajustar el plan: mantener el ahorro, reducir temporalmente el aporte a $70.000, crear una categoría para gastos de salud y revisar semanalmente sus gastos variables.  Las siguientes situaciones presentan algunos ajustes que pueden realizarse durante el seguimiento del plan de mejora.
+            p.mb-0 Sandra elaboró un plan de mejora para reducir los gastos pequeños, ahorrar $ 100.000 mensuales y pagar puntualmente una cuota de crédito. Al finalizar el primer mes, cumplió con el pago de la cuota y logró disminuir algunos gastos, pero solo pudo ahorrar $ 60.000 debido a un gasto de salud no previsto. En lugar de abandonar la meta, decidió ajustar el plan: mantener el ahorro, reducir temporalmente el aporte a $ 70.000, crear una categoría para gastos de salud y revisar semanalmente sus gastos variables.  Las siguientes situaciones presentan algunos ajustes que pueden realizarse durante el seguimiento del plan de mejora.
           .col-xl-auto.order-1.order-lg-2
             figure
               img(src='@/assets/curso/temas/t4/img52.png', alt='').m-auto

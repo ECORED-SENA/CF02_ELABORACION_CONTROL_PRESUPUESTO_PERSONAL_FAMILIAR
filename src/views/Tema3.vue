@@ -114,11 +114,11 @@
           AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")(data-aos="fade-left")
             .row(titulo="Comparación planeado-ejecutado").ajuste-cajaAcordion.ajuste-vineta
               p #[b ¿En qué consiste?] Revisar el valor presupuestado frente al valor realmente utilizado.
-              p #[b Ejemplo práctico:] se planeó gastar $300.000 en alimentación y se gastaron $380.000.
+              p #[b Ejemplo práctico:] se planeó gastar $ 300.000 en alimentación y se gastaron $ 380.000.
               p.mb-3 #[b Utilidad:] permite identificar diferencias en cada concepto del presupuesto.
             .row(titulo="Análisis de variaciones").ajuste-cajaAcordion.ajuste-vineta
               p #[b ¿En qué consiste?] Calcular aumentos o disminuciones frente a lo planeado o a periodos anteriores.
-              p #[b Ejemplo práctico:] el gasto en servicios pasó de $180.000 a $230.000.
+              p #[b Ejemplo práctico:] el gasto en servicios pasó de $ 180.000 a $ 230.000.
               p.mb-3 #[b Utilidad:] ayuda a reconocer cambios que requieren explicación.
             .row(titulo="Clasificación por prioridades").ajuste-cajaAcordion.ajuste-vineta
               p #[b ¿En qué consiste?] Separar los gastos indispensables, las deudas, el ahorro y los gastos aplazables.
@@ -133,7 +133,7 @@
           AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")(data-aos="fade-right")
             .row(titulo="Comparación entre periodos").ajuste-cajaAcordion.ajuste-vineta
               p #[b ¿En qué consiste?] Revisar los resultados de un periodo frente a otro.
-              p #[b Ejemplo práctico:] en abril se ahorraron $80.000 y en mayo no se logró ahorrar.
+              p #[b Ejemplo práctico:] en abril se ahorraron $ 80.000 y en mayo no se logró ahorrar.
               p.mb-3 #[b Utilidad:] ayuda a identificar comportamientos repetidos o cambios importantes.
             .row(titulo="Revisión de porcentajes").ajuste-cajaAcordion.ajuste-vineta
               p #[b ¿En qué consiste?] Expresar los gastos, las deudas o el ahorro como parte del ingreso.
@@ -141,11 +141,11 @@
               p.mb-3 #[b Utilidad:] permite medir el peso de cada concepto dentro del presupuesto.
             .row(titulo="Análisis del saldo disponible").ajuste-cajaAcordion.ajuste-vineta
               p #[b ¿En qué consiste?] Revisar el dinero que queda después de cubrir las obligaciones.
-              p #[b Ejemplo práctico:] después de pagar los gastos y las deudas quedan $60.000.
+              p #[b Ejemplo práctico:] después de pagar los gastos y las deudas, quedan $ 60.000.
               p.mb-3 #[b Utilidad:] permite establecer si existe margen para imprevistos o si el presupuesto está ajustado.
             .row(titulo="Evaluación de metas").ajuste-cajaAcordion.ajuste-vineta
               p #[b ¿En qué consiste?] Comparar el avance real frente al avance planeado.
-              p #[b Ejemplo práctico:] se debía ahorrar $100.000, pero solo se ahorraron $40.000.
+              p #[b Ejemplo práctico:] se debía ahorrar $ 100.000, pero solo se ahorraron $ 40.000.
               p.mb-3 #[b Utilidad:] permite ajustar el plazo, el valor del ahorro o la prioridad de la meta.
         .col-xl-auto(data-aos="fade-left")
           figure.d-none.d-xl-block
@@ -462,7 +462,7 @@
               figure
                 img(src='@/assets/curso/temas/t1/img5.svg', alt='').m-auto
             .col-xl
-              p.mb-0 Para analizar adecuadamente una deuda no basta con conocer el valor de la cuota mensual. También es necesario revisar el saldo pendiente, la fecha de vencimiento, el plazo, la tasa de interés, cuando aplique, los recargos por mora y el valor total que se pagará al finalizar la obligación. Esta información facilita decidir si conviene mantener el plan de pagos, realizar abonos a capital, renegociar la deuda o evitar nuevas obligaciones.
+              p.mb-0 Para analizar adecuadamente una deuda, no basta con conocer el valor de la cuota mensual. También es necesario revisar el saldo pendiente, la fecha de vencimiento, el plazo, la tasa de interés, cuando aplique, los recargos por mora y el valor total que se pagará al finalizar la obligación. Esta información facilita decidir si conviene mantener el plan de pagos, realizar abonos a capital, renegociar la deuda o evitar nuevas obligaciones.
           p.mb-0 Cuando las deudas representan una parte importante del ingreso, conviene actuar con prudencia. Si después de pagar las cuotas queda poco dinero para cubrir alimentación, transporte, servicios públicos o ahorro, asumir una nueva obligación puede generar un desequilibrio financiero. En estos casos, resulta recomendable revisar los gastos ajustables, priorizar las deudas con mayor interés, evitar compras financiadas innecesarias y organizar un calendario de pagos. Las siguientes situaciones orientan la toma de decisiones frente al manejo de las deudas.
       TabsC.color-acento-contenido.mb-5(data-aos="zoom-in")
         .py-3.py-md-4(titulo="Varias cuotas mensuales")

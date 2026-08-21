@@ -31,7 +31,7 @@
                 img(src='@/assets/curso/temas/t1/img5.svg', alt='').m-auto
             .col-xl
               p.mb-0 En la práctica, analizar las finanzas personales implica responder preguntas como: ¿los ingresos alcanzan para cubrir los gastos?, ¿las deudas están dentro de la capacidad de pago?, ¿se está logrando ahorrar?, ¿los gastos variables están aumentando?, ¿el saldo disponible es suficiente?, ¿las metas financieras avanzan? Estas preguntas permiten pasar del registro de información a la toma de decisiones.
-          p.mb-0 Por ejemplo, si una persona recibe $1.800.000 mensuales y sus gastos, deudas y costos suman $1.750.000, puede pensar que no enfrenta dificultades porque aún dispone de $50.000. Sin embargo, el análisis permite identificar que ese margen es reducido y que cualquier imprevisto podría afectar su estabilidad financiera. Por ello, el análisis financiero personal facilita anticipar riesgos y definir ajustes antes de que se presenten dificultades mayores. 
+          p.mb-0 Por ejemplo, si una persona recibe $ 1.800.000 mensuales y sus gastos, deudas y costos suman $ 1.750.000, puede pensar que no enfrenta dificultades porque aún dispone de $ 50.000. Sin embargo, el análisis permite identificar que ese margen es reducido y que cualquier imprevisto podría afectar su estabilidad financiera. Por ello, el análisis financiero personal facilita anticipar riesgos y definir ajustes antes de que se presenten dificultades mayores. 
       p.mb-5 Los principales aspectos que se analizan en las finanzas personales se presentan a continuación.
       .bg-carrusel
         .px-5
@@ -171,8 +171,8 @@
             .col-xl.fit___bottom
               figure.mb-2.d-none.d-xl-block(data-aos="fade-left")
                 img(src='@/assets/curso/temas/t1/img3.svg', alt='' style="width: 70px")
-              p.mb-0 En la práctica, la capacidad de ahorro se calcula comparando el valor ahorrado con el total de los ingresos del periodo. Por ejemplo, si una persona recibe $2.000.000 y logra ahorrar $100.000, su capacidad de ahorro corresponde al 5 % de sus ingresos. Este resultado permite evaluar si el ahorro es constante, si puede incrementarse o si los gastos están ocupando una parte excesiva del dinero disponible.
-          p.mb-5 También es importante diferenciar la intención de ahorro del ahorro real. La intención de ahorro se presenta cuando la persona planea reservar un valor, pero no lo separa efectivamente. El ahorro real, en cambio, se materializa cuando el dinero se deposita en una cuenta, un fondo, un sobre o cualquier otro mecanismo destinado exclusivamente a ese propósito. Por esta razón, al analizar el presupuesto debe verificarse que el ahorro haya sido planeado, ejecutado y protegido de otros gastos (Banco de la República). Las siguientes situaciones permiten analizar la capacidad de ahorro en diferentes escenarios. 
+              p.mb-0 En la práctica, la capacidad de ahorro se calcula comparando el valor ahorrado con el total de los ingresos del periodo. Por ejemplo, si una persona recibe $ 2.000.000 y logra ahorrar $ 100.000, su capacidad de ahorro corresponde al 5 % de sus ingresos. Este resultado permite evaluar si el ahorro es constante, si puede incrementarse o si los gastos están ocupando una parte excesiva del dinero disponible.
+          p.mb-5 También es importante diferenciar la intención de ahorro del ahorro real. La intención de ahorro se presenta cuando la persona planea reservar un valor, pero no lo separa efectivamente. El ahorro real, en cambio, se materializa cuando el dinero se deposita en una cuenta, un fondo, un sobre o cualquier otro mecanismo destinado exclusivamente a ese propósito. Por esta razón, al analizar el presupuesto, debe verificarse que el ahorro haya sido planeado, ejecutado y protegido de otros gastos (Banco de la República). Las siguientes situaciones permiten analizar la capacidad de ahorro en diferentes escenarios. 
       .bg-2
         .px-5
           .row.justify-content-center.mb-0
@@ -193,37 +193,37 @@
                   tbody
                     tr.ajuste-color-tabla
                       td.ajuste-border-tabla.texto-left.text-weight-bold Ahorro cumplido
-                      td.ajuste-border-tabla.texto-left $1.800.000
-                      td.ajuste-border-tabla.texto-left $100.000
-                      td.ajuste-border-tabla.texto-left $100.000
+                      td.ajuste-border-tabla.texto-left $ 1.800.000
+                      td.ajuste-border-tabla.texto-left $ 100.000
+                      td.ajuste-border-tabla.texto-left $ 100.000
                       td.ajuste-border-tabla.texto-left 5,6 % del ingreso
                       td.texto-left La meta de ahorro se cumplió según lo planeado.
                     tr
                       td.ajuste-border-tabla.texto-left.text-weight-bold Ahorro parcial
-                      td.ajuste-border-tabla.texto-left $1.800.000
-                      td.ajuste-border-tabla.texto-left $100.000
-                      td.ajuste-border-tabla.texto-left $50.000
+                      td.ajuste-border-tabla.texto-left $ 1.800.000
+                      td.ajuste-border-tabla.texto-left $ 100.000
+                      td.ajuste-border-tabla.texto-left $ 50.000
                       td.ajuste-border-tabla.texto-left 2,8 % del ingreso
                       td.texto-left Se logró ahorrar, pero por debajo de la meta prevista.
                     tr.ajuste-color-tabla
                       td.ajuste-border-tabla.texto-left.text-weight-bold Sin ahorro
-                      td.ajuste-border-tabla.texto-left $1.800.000
-                      td.ajuste-border-tabla.texto-left $100.000
-                      td.ajuste-border-tabla.texto-left $0
+                      td.ajuste-border-tabla.texto-left $ 1.800.000
+                      td.ajuste-border-tabla.texto-left $ 100.000
+                      td.ajuste-border-tabla.texto-left $ 0
                       td.ajuste-border-tabla.texto-left 0 % del ingreso
                       td.texto-left No se separó dinero para ahorro durante el periodo.
                     tr
                       td.ajuste-border-tabla.texto-left.text-weight-bold Ahorro superior al planeado
-                      td.ajuste-border-tabla.texto-left $1.800.000
-                      td.ajuste-border-tabla.texto-left $100.000
-                      td.ajuste-border-tabla.texto-left $150.000
+                      td.ajuste-border-tabla.texto-left $ 1.800.000
+                      td.ajuste-border-tabla.texto-left $ 100.000
+                      td.ajuste-border-tabla.texto-left $ 150.000
                       td.ajuste-border-tabla.texto-left 8,3 % del ingreso
                       td.texto-left Se logró ahorrar más de lo previsto, lo que fortalece la estabilidad financiera.
                     tr.ajuste-color-tabla
                       td.ajuste-border-tabla.texto-left.text-weight-bold Ahorro con ingreso variable
-                      td.ajuste-border-tabla.texto-left $1.500.000
-                      td.ajuste-border-tabla.texto-left $80.000
-                      td.ajuste-border-tabla.texto-left $40.000
+                      td.ajuste-border-tabla.texto-left $ 1.500.000
+                      td.ajuste-border-tabla.texto-left $ 80.000
+                      td.ajuste-border-tabla.texto-left $ 40.000
                       td.ajuste-border-tabla.texto-left 2,7 % del ingreso
                       td.texto-left El ahorro fue menor; conviene revisar si la variación del ingreso afectó el cumplimiento de la meta.
           Separador
@@ -232,7 +232,7 @@
           .row.justify-content-center.align-items-center.mb-5
             .col-xl.mb-4.mb-lg-0
               p El nivel de endeudamiento personal permite identificar qué parte del ingreso está comprometida en el pago de deudas. Este análisis es importante porque una persona puede contar con ingresos suficientes para cubrir sus gastos básicos y, aun así, presentar dificultades financieras cuando las cuotas de créditos, préstamos, compras a plazos o deudas informales representan una proporción significativa de sus ingresos mensuales.
-              p.mb-0 Para calcular este indicador, se comparan las cuotas mensuales de las deudas con el total de los ingresos del periodo. Por ejemplo, si una persona recibe $2.000.000 al mes y paga $500.000 en cuotas, su nivel de endeudamiento corresponde al #[b 25 %]. Este resultado permite evaluar si aún existe capacidad para cubrir los gastos, ahorrar y atender imprevistos, o si es necesario evitar nuevas obligaciones financieras.
+              p.mb-0 Para calcular este indicador, se comparan las cuotas mensuales de las deudas con el total de los ingresos del periodo. Por ejemplo, si una persona recibe $ 2.000.000 al mes y paga $ 500.000 en cuotas, su nivel de endeudamiento corresponde al #[b 25 %]. Este resultado permite evaluar si aún existe capacidad para cubrir los gastos, ahorrar y atender imprevistos, o si es necesario evitar nuevas obligaciones financieras.
             .col-xl-auto.col-md-9(data-aos="fade-left")
               figure
                 img(src='@/assets/curso/temas/t2/img14.png', alt='').m-auto
@@ -256,32 +256,32 @@
                   tbody
                     tr.ajuste-color-tabla
                       td.ajuste-border-tabla.texto-left.text-weight-bold Endeudamiento bajo
-                      td.ajuste-border-tabla.texto-left $2.000.000
-                      td.ajuste-border-tabla.texto-left $200.000
+                      td.ajuste-border-tabla.texto-left $ 2.000.000
+                      td.ajuste-border-tabla.texto-left $ 200.000
                       td.ajuste-border-tabla.texto-left 10 %
                       td.texto-left Las deudas ocupan una parte moderada del ingreso.
                     tr
                       td.ajuste-border-tabla.texto-left.text-weight-bold Endeudamiento medio
-                      td.ajuste-border-tabla.texto-left $2.000.000
-                      td.ajuste-border-tabla.texto-left $500.000
+                      td.ajuste-border-tabla.texto-left $ 2.000.000
+                      td.ajuste-border-tabla.texto-left $ 500.000
                       td.ajuste-border-tabla.texto-left 25 %
                       td.texto-left Las cuotas requieren seguimiento para no afectar otros gastos.
                     tr.ajuste-color-tabla
                       td.ajuste-border-tabla.texto-left.text-weight-bold Endeudamiento alto
-                      td.ajuste-border-tabla.texto-left $2.000.000
-                      td.ajuste-border-tabla.texto-left $800.000
+                      td.ajuste-border-tabla.texto-left $ 2.000.000
+                      td.ajuste-border-tabla.texto-left $ 800.000
                       td.ajuste-border-tabla.texto-left 40 %
                       td.texto-left Las deudas reducen de forma importante el dinero disponible.
                     tr
                       td.ajuste-border-tabla.texto-left.text-weight-bold Endeudamiento crítico
-                      td.ajuste-border-tabla.texto-left $2.000.000
-                      td.ajuste-border-tabla.texto-left $1.100.000
+                      td.ajuste-border-tabla.texto-left $ 2.000.000
+                      td.ajuste-border-tabla.texto-left $ 1.100.000
                       td.ajuste-border-tabla.texto-left 55 %
                       td.texto-left Las obligaciones pueden impedir cubrir los gastos básicos y ahorrar.
                     tr.ajuste-color-tabla
                       td.ajuste-border-tabla.texto-left.text-weight-bold Sin endeudamiento
-                      td.ajuste-border-tabla.texto-left $2.000.000
-                      td.ajuste-border-tabla.texto-left $0
+                      td.ajuste-border-tabla.texto-left $ 2.000.000
+                      td.ajuste-border-tabla.texto-left $ 0
                       td.ajuste-border-tabla.texto-left 0 %
                       td.texto-left No existe ingreso comprometido en cuotas de deuda.
           Separador
@@ -292,7 +292,7 @@
             .bloque-texto-g__img(
               :style="{ backgroundImage: `url(${require_src('@/assets/curso/temas/t2/img15.jpg')})` }")
             .bloque-texto-g__texto.p-4
-              p.mb-0 Para realizar este análisis, se comparan los ingresos totales con los gastos totales del periodo. Por ejemplo, si una persona recibe $1.900.000 y sus gastos ascienden a $1.600.000, obtiene un excedente de $300.000. Si, por el contrario, los gastos alcanzan $2.000.000, se presenta un faltante de $100.000 que puede llevar al uso de ahorros, al endeudamiento o al incumplimiento de algunas obligaciones.
+              p.mb-0 Para realizar este análisis, se comparan los ingresos totales con los gastos totales del periodo. Por ejemplo, si una persona recibe $ 1.900.000 y sus gastos ascienden a $ 1.600.000, obtiene un excedente de $ 300.000. Si, por el contrario, los gastos alcanzan $ 2.000.000, se presenta un faltante de $ 100.000 que puede llevar al uso de ahorros, al endeudamiento o al incumplimiento de algunas obligaciones.
           p.mb-5 Este indicador facilita la toma de decisiones. Cuando los gastos superan los ingresos, conviene revisar primero los gastos variables, las compras no prioritarias, los pagos repetidos y aquellos consumos que pueden reducirse. Si los ingresos son superiores a los gastos, resulta recomendable destinar el excedente al ahorro, al fondo de emergencia, al pago de deudas o al cumplimiento de metas financieras. Las siguientes situaciones permiten analizar la relación entre ingresos y gastos.
       .bg-2
         .px-5
@@ -313,33 +313,33 @@
                   tbody
                     tr.ajuste-color-tabla
                       td.ajuste-border-tabla.texto-left.text-weight-bold Ingresos mayores que gastos
-                      td.ajuste-border-tabla.texto-left $2.000.000
-                      td.ajuste-border-tabla.texto-left $1.600.000
-                      td.ajuste-border-tabla.texto-left $400.000
+                      td.ajuste-border-tabla.texto-left $ 2.000.000
+                      td.ajuste-border-tabla.texto-left $ 1.600.000
+                      td.ajuste-border-tabla.texto-left $ 400.000
                       td.texto-left Existe un excedente que puede destinarse al ahorro, al pago de deudas o al cumplimiento de metas.
                     tr
                       td.ajuste-border-tabla.texto-left.text-weight-bold Ingresos iguales a gastos
-                      td.ajuste-border-tabla.texto-left $2.000.000
-                      td.ajuste-border-tabla.texto-left $2.000.000
-                      td.ajuste-border-tabla.texto-left $0
+                      td.ajuste-border-tabla.texto-left $ 2.000.000
+                      td.ajuste-border-tabla.texto-left $ 2.000.000
+                      td.ajuste-border-tabla.texto-left $ 0
                       td.texto-left No existe margen para afrontar imprevistos ni fortalecer el ahorro.
                     tr.ajuste-color-tabla
                       td.ajuste-border-tabla.texto-left.text-weight-bold Gastos mayores que ingresos
-                      td.ajuste-border-tabla.texto-left $2.000.000
-                      td.ajuste-border-tabla.texto-left $2.200.000
-                      td.ajuste-border-tabla.texto-left -$200.000
+                      td.ajuste-border-tabla.texto-left $ 2.000.000
+                      td.ajuste-border-tabla.texto-left $ 2.200.000
+                      td.ajuste-border-tabla.texto-left -$ 200.000
                       td.texto-left Existe un faltante y será necesario ajustar los gastos o buscar ingresos adicionales.
                     tr
                       td.ajuste-border-tabla.texto-left.text-weight-bold Gastos cercanos al ingreso
-                      td.ajuste-border-tabla.texto-left $2.000.000
-                      td.ajuste-border-tabla.texto-left $1.900.000
-                      td.ajuste-border-tabla.texto-left $100.000
+                      td.ajuste-border-tabla.texto-left $ 2.000.000
+                      td.ajuste-border-tabla.texto-left $ 1.900.000
+                      td.ajuste-border-tabla.texto-left $ 100.000
                       td.texto-left El margen disponible es reducido y cualquier imprevisto puede afectar el presupuesto.
                     tr.ajuste-color-tabla
                       td.ajuste-border-tabla.texto-left.text-weight-bold Gastos controlados
-                      td.ajuste-border-tabla.texto-left $2.000.000
-                      td.ajuste-border-tabla.texto-left $1.400.000
-                      td.ajuste-border-tabla.texto-left $600.000
+                      td.ajuste-border-tabla.texto-left $ 2.000.000
+                      td.ajuste-border-tabla.texto-left $ 1.400.000
+                      td.ajuste-border-tabla.texto-left $ 600.000
                       td.texto-left Existe una mayor posibilidad de ahorrar o fortalecer las metas financieras.
           Separador
           #t_2_6.titulo-segundo.color-acento-contenido(data-aos="fade-right")
@@ -353,7 +353,7 @@
                     figure
                       img(src='@/assets/curso/temas/t2/img16.jpg', alt='').m-auto
                   .col-xl.caja-1_p
-                    p.mb-0 La disponibilidad de recursos no depende únicamente del valor de los ingresos, sino del dinero que realmente queda libre después de cumplir las obligaciones prioritarias. Por ejemplo, una persona puede recibir $2.500.000 mensuales; sin embargo, si sus gastos, deudas y costos suman $2.400.000, su disponibilidad real será reducida. En esta situación, cualquier gasto inesperado podría obligarla a utilizar crédito, solicitar un préstamo o aplazar el pago de alguna obligación.
+                    p.mb-0 La disponibilidad de recursos no depende únicamente del valor de los ingresos, sino del dinero que realmente queda libre después de cumplir las obligaciones prioritarias. Por ejemplo, una persona puede recibir $ 2.500.000 mensuales; sin embargo, si sus gastos, deudas y costos suman $ 2.400.000, su disponibilidad real será reducida. En esta situación, cualquier gasto inesperado podría obligarla a utilizar crédito, solicitar un préstamo o aplazar el pago de alguna obligación.
               p.mb-0 Analizar la liquidez permite adoptar decisiones preventivas. Cuando el saldo disponible es bajo, conviene revisar los gastos variables, evitar nuevas deudas, fortalecer el fondo de emergencia o ajustar las metas financieras. Si la disponibilidad de recursos es suficiente, es posible avanzar en el ahorro, la inversión, el pago anticipado de obligaciones o la preparación para gastos futuros. Las siguientes situaciones permiten analizar la liquidez personal y la disponibilidad de recursos.
             .col-xl-auto.col-md-9(data-aos="fade-left")
               figure
@@ -377,33 +377,33 @@
                   tbody
                     tr.ajuste-color-tabla
                       td.ajuste-border-tabla.texto-left.text-weight-bold Liquidez suficiente
-                      td.ajuste-border-tabla.texto-left $2.200.000
-                      td.ajuste-border-tabla.texto-left $1.700.000
-                      td.ajuste-border-tabla.texto-left $500.000
+                      td.ajuste-border-tabla.texto-left $ 2.200.000
+                      td.ajuste-border-tabla.texto-left $ 1.700.000
+                      td.ajuste-border-tabla.texto-left $ 500.000
                       td.texto-left Existe margen para afrontar imprevistos, aumentar el ahorro o avanzar en las metas financieras.
                     tr
                       td.ajuste-border-tabla.texto-left.text-weight-bold Liquidez ajustada
-                      td.ajuste-border-tabla.texto-left $2.200.000
-                      td.ajuste-border-tabla.texto-left $2.050.000
-                      td.ajuste-border-tabla.texto-left $150.000
+                      td.ajuste-border-tabla.texto-left $ 2.200.000
+                      td.ajuste-border-tabla.texto-left $ 2.050.000
+                      td.ajuste-border-tabla.texto-left $ 150.000
                       td.texto-left El margen disponible es reducido y requiere un mayor control de los gastos.
                     tr.ajuste-color-tabla
                       td.ajuste-border-tabla.texto-left.text-weight-bold Liquidez insuficiente
-                      td.ajuste-border-tabla.texto-left $2.200.000
-                      td.ajuste-border-tabla.texto-left $2.300.000
-                      td.ajuste-border-tabla.texto-left -$100.000
+                      td.ajuste-border-tabla.texto-left $ 2.200.000
+                      td.ajuste-border-tabla.texto-left $ 2.300.000
+                      td.ajuste-border-tabla.texto-left -$ 100.000
                       td.texto-left Los recursos no son suficientes y será necesario ajustar los gastos o las obligaciones.
                     tr
                       td.ajuste-border-tabla.texto-left.text-weight-bold Liquidez comprometida por deudas
-                      td.ajuste-border-tabla.texto-left $2.200.000
-                      td.ajuste-border-tabla.texto-left $2.100.000
-                      td.ajuste-border-tabla.texto-left $100.000
+                      td.ajuste-border-tabla.texto-left $ 2.200.000
+                      td.ajuste-border-tabla.texto-left $ 2.100.000
+                      td.ajuste-border-tabla.texto-left $ 100.000
                       td.texto-left Las cuotas reducen el dinero disponible para cubrir otras necesidades.
                     tr.ajuste-color-tabla
                       td.ajuste-border-tabla.texto-left.text-weight-bold Liquidez fortalecida
-                      td.ajuste-border-tabla.texto-left $2.200.000
-                      td.ajuste-border-tabla.texto-left $1.500.000
-                      td.ajuste-border-tabla.texto-left $700.000
+                      td.ajuste-border-tabla.texto-left $ 2.200.000
+                      td.ajuste-border-tabla.texto-left $ 1.500.000
+                      td.ajuste-border-tabla.texto-left $ 700.000
                       td.texto-left Existe una mayor capacidad para ahorrar, invertir o pagar deudas anticipadamente.
           Separador
           #t_2_7.titulo-segundo.color-acento-contenido(data-aos="fade-right")
@@ -419,7 +419,7 @@
                   figure
                     img(src='@/assets/curso/temas/t1/img5.svg', alt='').m-auto
                 .col-xl
-                  p.mb-0 En la práctica, no basta con plantear objetivos como "quiero ahorrar" o "quiero pagar una deuda". Es indispensable establecer cuánto dinero se necesita, en cuánto tiempo se espera alcanzar la meta y cuál será el aporte en cada periodo. Por ejemplo, si una persona desea reunir $600.000 en seis meses, deberá ahorrar $100.000 mensuales. Al finalizar cada periodo, podrá verificar si cumplió el aporte previsto, si avanzó parcialmente o si requiere ajustar la meta.
+                  p.mb-0 En la práctica, no basta con plantear objetivos como "quiero ahorrar" o "quiero pagar una deuda". Es indispensable establecer cuánto dinero se necesita, en cuánto tiempo se espera alcanzar la meta y cuál será el aporte en cada periodo. Por ejemplo, si una persona desea reunir $ 600.000 en seis meses, deberá ahorrar $ 100.000 mensuales. Al finalizar cada periodo, podrá verificar si cumplió el aporte previsto, si avanzó parcialmente o si requiere ajustar la meta.
               p.mb-0 El análisis del cumplimiento de las metas financieras facilita la toma de decisiones realistas. Cuando el avance es menor al esperado, conviene revisar si el aporte mensual es adecuado, si existen gastos variables que pueden reducirse, si es necesario ampliar el plazo o si se requieren ingresos adicionales. Si la meta avanza conforme a lo planeado, el presupuesto evidencia una adecuada organización financiera y un progreso constante hacia los objetivos establecidos (Banco de la República). Las siguientes situaciones permiten analizar el cumplimiento de las metas financieras.
       .bg-2
         .px-5
@@ -442,42 +442,42 @@
                   tbody
                     tr.ajuste-color-tabla
                       td.ajuste-border-tabla.texto-left.text-weight-bold Fondo de emergencia
-                      td.ajuste-border-tabla.texto-left $600.000
+                      td.ajuste-border-tabla.texto-left $ 600.000
                       td.ajuste-border-tabla.texto-left 6 meses
-                      td.ajuste-border-tabla.texto-left $100.000
-                      td.ajuste-border-tabla.texto-left $100.000
+                      td.ajuste-border-tabla.texto-left $ 100.000
+                      td.ajuste-border-tabla.texto-left $ 100.000
                       td.ajuste-border-tabla.texto-left Cumplida en el mes
                       td.texto-left La meta avanza según lo planeado.
                     tr
                       td.ajuste-border-tabla.texto-left.text-weight-bold Compra de herramienta
-                      td.ajuste-border-tabla.texto-left $900.000
+                      td.ajuste-border-tabla.texto-left $ 1.900.000
                       td.ajuste-border-tabla.texto-left 6 meses
-                      td.ajuste-border-tabla.texto-left $150.000
-                      td.ajuste-border-tabla.texto-left $80.000
+                      td.ajuste-border-tabla.texto-left $ 150.000
+                      td.ajuste-border-tabla.texto-left $ 80.000
                       td.ajuste-border-tabla.texto-left Avance parcial
                       td.texto-left Se debe revisar si el aporte planeado es realista.
                     tr.ajuste-color-tabla
                       td.ajuste-border-tabla.texto-left.text-weight-bold Pago de deuda
-                      td.ajuste-border-tabla.texto-left $1.200.000
+                      td.ajuste-border-tabla.texto-left $ 1.200.000
                       td.ajuste-border-tabla.texto-left 8 meses
-                      td.ajuste-border-tabla.texto-left $150.000
-                      td.ajuste-border-tabla.texto-left $150.000
+                      td.ajuste-border-tabla.texto-left $ 150.000
+                      td.ajuste-border-tabla.texto-left $ 150.000
                       td.ajuste-border-tabla.texto-left Cumplida en el mes
                       td.texto-left El presupuesto está apoyando la reducción de la deuda.
                     tr
                       td.ajuste-border-tabla.texto-left.text-weight-bold Ahorro para estudio
-                      td.ajuste-border-tabla.texto-left $1.000.000
+                      td.ajuste-border-tabla.texto-left $ 1.000.000
                       td.ajuste-border-tabla.texto-left 10 meses
-                      td.ajuste-border-tabla.texto-left $100.000
-                      td.ajuste-border-tabla.texto-left $0
+                      td.ajuste-border-tabla.texto-left $ 100.000
+                      td.ajuste-border-tabla.texto-left $ 80.000
                       td.ajuste-border-tabla.texto-left Sin avance
                       td.texto-left Se requiere ajustar los gastos o ampliar el plazo.
                     tr.ajuste-color-tabla
                       td.ajuste-border-tabla.texto-left.text-weight-bold Mejoramiento del hogar
-                      td.ajuste-border-tabla.texto-left $1.500.000
+                      td.ajuste-border-tabla.texto-left $ 1.500.000
                       td.ajuste-border-tabla.texto-left 12 meses
-                      td.ajuste-border-tabla.texto-left $125.000
-                      td.ajuste-border-tabla.texto-left $150.000
+                      td.ajuste-border-tabla.texto-left $ 125.000
+                      td.ajuste-border-tabla.texto-left $ 150.000
                       td.ajuste-border-tabla.texto-left Avance superior
                       td.texto-left La meta puede cumplirse antes del plazo previsto.
           Separador
