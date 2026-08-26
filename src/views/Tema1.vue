@@ -18,7 +18,7 @@
       p.mb-5 A continuación, se presenta un video sobre la comprobación presupuestal, destacando su importancia para evaluar el cumplimiento del presupuesto personal, identificar desviaciones y fortalecer la toma de decisiones financieras mediante el análisis de ingresos, gastos, deudas, ahorro y metas financieras.
       figure(data-aos="zoom-in").mb-5
         .video
-          iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+          iframe(width="560" height="315" src="https://www.youtube.com/embed/Refs_sSmYtg?si=C5oetdcdjgLnVQVi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
         figcaption Video. Comprobación presupuestal
       p.mb-0 La información obtenida durante esta revisión permite convertir los datos del presupuesto en un insumo para la toma de decisiones. Si los gastos de alimentación, transporte o recreación superan lo planeado, es posible analizar las causas y realizar los ajustes necesarios. Si, por el contrario, se presenta un excedente, este puede destinarse al ahorro, al pago anticipado de una deuda o al cumplimiento de una meta prioritaria. Por esta razón, la comprobación presupuestal constituye una etapa fundamental para fortalecer el control de los recursos personales y familiares (Ministerio de Educación, 2022).
       Separador
